@@ -13,7 +13,7 @@
   C | C++ | Python | Go 
 
 - 🤖 &nbsp;
-  SPI, I2C, CAN, FreeRTOS, CMake, GNU Make
+  SPI | I2C | CAN | FreeRTOS | CMake | GNU Make
 
 - 🌐 &nbsp;
   HTML | CSS | JavaScript | React | React Native | Node.js | Express.js
