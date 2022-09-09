@@ -14,7 +14,7 @@
   C | C++ | Python | Go 
 
 - 🌐 &nbsp;
-  HTML | CSS | JavaScript | React | Reac Native | Node.js | Express.js
+  HTML | CSS | JavaScript | React | React Native | Node.js | Express.js
 
 - 🛢 &nbsp;
   PostgreSQL | MongoDB | Redis | Firebase
