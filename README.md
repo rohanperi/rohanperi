@@ -13,15 +13,17 @@
   C | C++ | Python | Go 
 
 - 💾 &nbsp;
-  SPI, I2C, CAN, FreeRTOS, Git, CMake, GNU Make, Docker, Doxygen
+  SPI, I2C, CAN, FreeRTOS, CMake, GNU Make
 
 - 🌐 &nbsp;
   HTML | CSS | JavaScript | React | React Native | Node.js | Express.js
 
 - 🛢 &nbsp;
   PostgreSQL | MongoDB | Redis | Firebase
+  
 - ⚙️ &nbsp;
-  Git | Github | Markdown
+  Git | Github | Docker | Markdown | Doxygen
+  
 - 🔧 &nbsp;
   Visual Studio Code
 
