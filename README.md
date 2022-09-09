@@ -23,12 +23,6 @@
 - 🔧 &nbsp;
   Visual Studio Code
 
-
-<a href="https://github.com/rohanperi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanperi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanperi&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 ⭐️ From [rohanperi](https://github.com/rohanperi)
