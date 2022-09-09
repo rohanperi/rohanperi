@@ -2,10 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new tech and constantly learning about innovative ways to problem-solve
 - 🎓 &nbsp; Studying Mechatronics Engineering at the University of Waterloo
 - 💼 &nbsp; Worked as a Firmware Engineer Intern at Infinera
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing a career in Embedded Software
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -24,5 +22,3 @@
   Visual Studio Code
 
 <br/>
-
-⭐️ From [rohanperi](https://github.com/rohanperi)
