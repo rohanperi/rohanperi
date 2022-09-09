@@ -12,7 +12,7 @@
 - 💻 &nbsp;
   C | C++ | Python | Go 
 
-- 💾 &nbsp:;
+- 💾 &nbsp;
   SPI, I2C, CAN, FreeRTOS, Git, CMake, GNU Make, Docker, Doxygen
 
 - 🌐 &nbsp;
