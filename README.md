@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Mechatronics Engineering at the University of Waterloo
-- 💼 &nbsp; Worked as a Firmware Engineer Intern at Infinera
+- 🎓 &nbsp; Studying Mechatronics Engineering at the University of Waterloo, Graduating in April 2024
+- 💼 &nbsp; Worked as a System-on-Chip Productization Software Engineer at Apple 
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing a career in Embedded Software
+- ✍️ &nbsp; Pursuing a career in Software Engineering / Embedded Systems
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
