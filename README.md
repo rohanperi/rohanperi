@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Mechatronics Engineering at the University of Waterloo, Graduating in April 2024
+- 🎓 &nbsp; Studied Mechatronics Engineering at the University of Waterloo, Graduated in April 2024
+- 👨🏽‍💻 &nbsp; Working as a Senior Firmware Engineer at Synopsys
 - 💼 &nbsp; Worked as a System-on-Chip Productization Software Engineer at Apple 
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing a career in Software Engineering / Embedded Systems
